@@ -1,0 +1,1 @@
+# StaticVariable_StaticMethod
